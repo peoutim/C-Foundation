@@ -1,0 +1,6 @@
+C:\GitHub\Foundation\Peou Tim\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe.config
+C:\GitHub\Foundation\Peou Tim\HomeWork1\HomeWork1\bin\Debug\HomeWork1.exe
+C:\GitHub\Foundation\Peou Tim\HomeWork1\HomeWork1\bin\Debug\HomeWork1.pdb
+C:\GitHub\Foundation\Peou Tim\HomeWork1\HomeWork1\obj\Debug\HomeWork1.csprojResolveAssemblyReference.cache
+C:\GitHub\Foundation\Peou Tim\HomeWork1\HomeWork1\obj\Debug\HomeWork1.exe
+C:\GitHub\Foundation\Peou Tim\HomeWork1\HomeWork1\obj\Debug\HomeWork1.pdb
